@@ -4,15 +4,15 @@
 
 ## Features
 
-- :fire: **Eslint**: Find and fix problems
-- :snowflake: **Tailwind**: Write Less & Do More
-- :zap: **Vite**: :collision: Blazingly Fast Development
+- :tophat: **Stylelint**: Maintain Clean Stylesheets, don't overload your html, sometimes it's good to use css.
 - :rat: **EditorConfig**:  Code Consistency Across Editors
-- :triangular_ruler: **Prettier**: Consistent & Beautiful Code  
-- :tophat: **Stylelint**: Maintain Clean Stylesheets, *use it so you won't overload your html, sometimes it's good to use css.*
-- :link: **React Router Dom**: Effortless React Routing  
-- :stars: **Vitewind**: Supercharged Vite + Tailwind  
-- :volcano: **Postcss**: Advanced CSS Transformations  
+- :link: **React Router Dom**: Effortless React Routing
+- :volcano: **Postcss**: Advanced CSS Transformations
+- :stars: **Vitewind**: Supercharged Vite + Tailwind
+- :triangular_ruler: **Prettier**: Consistent & Beautiful Code
+- :zap: **Vite**: :collision: Blazingly Fast Development
+- :snowflake: **Tailwind**: Write Less & Do More
+- :fire: **Eslint**: Find and fix problems
 
 ## Quick Setup
 
