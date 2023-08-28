@@ -8,6 +8,7 @@
 
 :snowflake: **Tailwind**: Quickly and efficiently style your applications using utility classes directly in your HTML. :kissing_cat: **Write Less & Do More**
 tailwind.config.js
+
 :zap: **Vite**: A lightning-fast build tool that leverages native ES modules to deliver an extremely quick development experience. :collision: **Blazingly Fast Development**
 
 :rat: **EditorConfig**: Ensure consistent code formatting across various code editors and IDEs. ⚙️ **Code Consistency Across Editors**
