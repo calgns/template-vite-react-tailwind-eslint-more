@@ -4,7 +4,7 @@
 
 ## Features
 
-:fire: **Eslint**: Maintain a consistent code style in project, identify and catch potential issues. ✨ **Find and fix problems**
+:fire: **Eslint**: Maintain a consistent code style in project, identify and catch potential issues. ✨ **Find and fix problems** 
 :snowflake: **Tailwind**: Quickly and efficient style using utility classes directly in your HTML. :kissing_cat: **Write Less & Do More**
 :zap: **Vite**: A lightning-fast build tool using native ES modules for rapid development. :collision: **Blazingly Fast Development**
 :rat: **EditorConfig**: Consistent code formatting across various code editors and IDEs. ⚙️ **Code Consistency Across Editors**
