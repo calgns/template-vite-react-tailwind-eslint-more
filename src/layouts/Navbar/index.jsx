@@ -2,10 +2,10 @@ import React from "react";
 import { useLocation, Link } from "react-router-dom";
 
 export const Navbar = () => (
-  <nav>
-    <ul>
+  <nav className="text-white text-xl font-semibold bg-[#555a66] py-5 px-10">
+    <ul className="flex gap-x-8 ">
       <NavLink path="/">Home</NavLink>
-      <NavLink path="/swiper">Carousel</NavLink>
+      <NavLink path="/about">About</NavLink>
     </ul>
   </nav>
 );
